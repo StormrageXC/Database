@@ -1,0 +1,23 @@
+{
+  "name": "Database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StormrageXC/Database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StormrageXC/Database/issues"
+  },
+  "homepage": "https://github.com/StormrageXC/Database#readme",
+  "dependencies": {
+    "pg": "^8.3.0"
+  }
+}
