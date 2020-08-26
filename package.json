@@ -1,23 +1,30 @@
 {
-  "name": "Database",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/StormrageXC/Database.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/StormrageXC/Database/issues"
-  },
-  "homepage": "https://github.com/StormrageXC/Database#readme",
-  "dependencies": {
-    "pg": "^8.3.0"
-  }
+    "name": "Database",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/StormrageXC/Database.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/StormrageXC/Database/issues"
+    },
+    "homepage": "https://github.com/StormrageXC/Database#readme",
+    "dependencies": {
+        "connect": "^3.4.0",
+        "knex": "^0.21.2",
+        "level": "^6.0.1",
+        "localforage": "^1.9.0",
+        "mongodb": "^2.2.36",
+        "pg": "^8.3.0",
+        "redis": "^3.0.2",
+        "sqlite3": "^4.2.0"
+    }
 }
